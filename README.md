@@ -1,7 +1,7 @@
 ![Frontend Developer | WordPress expert | Shopify | App Developer](https://media-exp1.licdn.com/dms/image/C5616AQGCLmwhdFx0Og/profile-displaybackgroundimage-shrink_200_800/0/1645011990054?e=1650499200&v=beta&t=MnsOKo27gJzsqItcE8B1O4Gh0Yu2OsPEsLtVyfO790o)
 
-## CODERMEEM
-### Frontend Developer | WordPress expert | Shopify | App Developer
+# CODERMEEM
+## Frontend Developer | WordPress expert | Shopify | App Developer
 
 Hi there! It's CoderMeem, a Front-end web developer, WordPress expert, Shopify, App Developer focused on crafting great experiences. Programming and Coding have been my passion since the days I started working with computers. I enjoy creating websites and apps.
 
