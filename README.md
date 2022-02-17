@@ -1,6 +1,6 @@
 ![Frontend Developer | WordPress expert | Shopify | App Developer](https://media-exp1.licdn.com/dms/image/C5616AQGCLmwhdFx0Og/profile-displaybackgroundimage-shrink_200_800/0/1645011990054?e=1650499200&v=beta&t=MnsOKo27gJzsqItcE8B1O4Gh0Yu2OsPEsLtVyfO790o)
 
-<h1 align="center" style="background: linear-gradient(to right, #30CFD0 0%, #330867 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> CODERMEEM </h1>
+<h1 align="center"> CODERMEEM </h1>
 <h3 align="center">Frontend Developer | WordPress expert | Shopify | App Developer</h3>
 
 Hi there! It's CoderMeem, a Front-end web developer, WordPress expert, Shopify, App Developer focused on crafting great experiences. Programming and Coding have been my passion since the days I started working with computers. I enjoy creating websites and apps.
