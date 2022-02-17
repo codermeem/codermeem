@@ -1,14 +1,14 @@
 ![Frontend Developer | WordPress expert | Shopify | App Developer](https://media-exp1.licdn.com/dms/image/C5616AQGCLmwhdFx0Og/profile-displaybackgroundimage-shrink_200_800/0/1645011990054?e=1650499200&v=beta&t=MnsOKo27gJzsqItcE8B1O4Gh0Yu2OsPEsLtVyfO790o)
 
 <h1 align="center"> CODERMEEM </h1>
-<h3 align="center">Frontend Developer | WordPress expert | Shopify | App Developer</h3>
+<h3 align="center">⠂𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚆𝚘𝚛𝚍𝙿𝚛𝚎𝚜𝚜 𝚎𝚡𝚙𝚎𝚛𝚝 | 𝚂𝚑𝚘𝚙𝚒𝚏𝚢 | 𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛⠐</h3>
 
-Hi there! It's CoderMeem, a Front-end web developer, WordPress expert, Shopify, App Developer focused on crafting great experiences. Programming and Coding have been my passion since the days I started working with computers. I enjoy creating websites and apps.
+𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸𝚝'𝚜 𝙲𝚘𝚍𝚎𝚛𝙼𝚎𝚎𝚖, 𝚊 𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚆𝚘𝚛𝚍𝙿𝚛𝚎𝚜𝚜 𝚎𝚡𝚙𝚎𝚛𝚝, 𝚂𝚑𝚘𝚙𝚒𝚏𝚢, 𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚊 𝚐𝚛𝚎𝚊𝚝 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜. 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚊𝚗𝚍 𝚌𝚘𝚍𝚒𝚗𝚐 𝚑𝚊𝚟𝚎 𝚋𝚎𝚎𝚗 𝚖𝚢 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚜𝚒𝚗𝚌𝚎 𝚝𝚑𝚎 𝚍𝚊𝚢𝚜 𝙸 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛𝚜. 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜 𝚊𝚗𝚍 𝚊𝚙𝚙𝚜.
 
-#### 📄 Know about my experiences: HTML5 / CSS3 / JS / JQ / Boostrap5 / WordPress / Shopify / Dart / Flutter.
+#### 📄 𝙺𝚗𝚘𝚠 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜: 𝙷𝚃𝙼𝙻𝟻 / 𝙲𝚂𝚂𝟹 / 𝙹𝚂 / 𝙹𝚀 / 𝙱𝚘𝚘𝚜𝚝𝚛𝚊𝚙𝟻 / 𝚆𝚘𝚛𝚍𝙿𝚛𝚎𝚜𝚜 / 𝚂𝚑𝚘𝚙𝚒𝚏𝚢 / 𝙳𝚊𝚛𝚝 / 𝙵𝚕𝚞𝚝𝚝𝚎𝚛..
 
 
-- 🔭 I’m currently working on **Freelancer.com as a individual Freelancer**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 ** 𝙵𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎𝚛.𝚌𝚘𝚖 𝚊𝚜 𝚊 𝚒𝚗𝚍𝚒𝚟𝚒𝚍𝚞𝚊𝚕 𝙵𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎𝚛 **
 
 - 🌱 I’m currently learning **Dart Programming language**
 
